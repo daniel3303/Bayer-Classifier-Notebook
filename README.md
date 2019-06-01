@@ -1,2 +1,2 @@
-# bayer-classifier-notebook
-Bayer Classifier Notebook
+# bayes-classifier-notebook
+Bayes Classifier Notebook
